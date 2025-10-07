@@ -17,6 +17,10 @@ My Devlog est un projet conçu avec React et le bundler Vite. Il s'agit d'un pro
 * Node.js
 * Supabase => (PostgreSQL, Auth)
 
+## Organisation
+
+Diagrammes Miro : https://miro.com/app/board/uXjVJ-G0zvI=/?share_link_id=311942025703
+
 ## License
 
 Tout droit réservé.
