@@ -105,7 +105,7 @@ API_INTERFACE_PASSWORD=12345
 API_INTERFACE_FRUIT=fruit préféré
 ```
 
-### 🎯 Objectifs pédagogiques
+## 🎯 Objectifs pédagogiques
 
 - **Maîtrise fullstack :** Démontrer ma capacité à concevoir et développer un projet complet intégrant un **frontend moderne (React)**, un **backend robuste (Express.js)** et une **base de données relationnelle (Supabase/PostgreSQL)**.  
 - **Architecture scalable :** Mettre en avant ma compétence à structurer une application selon une logique **MVC (Model – View – Controller)**, avec séparation claire des responsabilités, gestion des environnements (`.env`), et organisation modulaire pour faciliter la maintenance et l’évolution du projet.  
@@ -114,9 +114,11 @@ API_INTERFACE_FRUIT=fruit préféré
   - Gestion des données (synchronisation JSON ↔ base SQL, opérations CRUD complètes)  
   - Déploiement (front et back intégrés, gestion multi-fronts, adaptation dev/prod)  
 - **Projet présentable :** Fournir un projet **concret, documenté et déployable**, avec un **README clair**, des **captures d’écran** à venir et un déploiement futur pour valoriser mes compétences auprès des recruteurs.  
-- **Cycle complet de développement :** Montrer que je maîtrise toutes les étapes : conception, implémentation, tests, documentation et mise en production.  
+- **Cycle complet de développement :** Montrer que je maîtrise toutes les étapes : conception, implémentation, tests, documentation et mise en production.
 
-### 🔮 Améliorations possibles
+---
+
+## 🔮 Améliorations possibles
 
 - **Sécuriser l’authentification:** Intégrer bcrypt pour le hash des mots de passe et JWT pour la gestion de session.
 - **Tests automatiques:** Ajouter des tests unitaires et d’intégration (Jest, Supertest) sur les routes critiques.
