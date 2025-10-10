@@ -1,5 +1,13 @@
 # My Devlog : Blog + API + Dashboard – Projet Fullstack
 
+## 🔗 Liens du projet
+
+- **Frontend (Blog)** : [VinylTheDuster/blog](https://github.com/VinylTheDuster/blog)  
+  → Application React affichant les articles et tags, interface publique du projet.
+
+- **Backend (API + Dashboard)** : [VinylTheDuster/blog-api](https://github.com/VinylTheDuster/blog-api)  
+  → Serveur Express.js connecté à Supabase, expose les routes API et sert le dashboard d’administration.
+
 ## 📖 Description
 
 Ce projet est une application **fullstack** composée de trois parties :
